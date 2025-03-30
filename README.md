@@ -1,4 +1,4 @@
-### Hi, welcome to my Github 👋
+
 I am Xinyu Yan, an incoming Master student at BIT in China.
 
 <picture>
